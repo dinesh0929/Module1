@@ -16,17 +16,18 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```
-num1 = int(input())
-num2 = int(input())
-
-complex_num = complex(num1,num2)
-
-print(complex_num)
-print(complex_num.real)
-print(complex_num.imag)
+a = (1 == True)
+b = (0== False)
+c = True + 5
+d = False + 9
+print("a is",a)
+print("b is",b)
+print("c:",c)
+print("d:",d)
 ```
 ## Output
-<img width="537" height="430" alt="image" src="https://github.com/user-attachments/assets/7f1e7456-6e07-4a80-8cf8-eb2e87a130ae" />
+<img width="430" height="248" alt="image" src="https://github.com/user-attachments/assets/20db34d2-375c-47cc-a731-ddaa9a30b130" />
+
 
 ## Result
 Thus the output is Verified.
