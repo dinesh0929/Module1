@@ -17,4 +17,4 @@ print(men_stepped_on_the_moon)
 <img width="314" height="161" alt="image" src="https://github.com/user-attachments/assets/5b9a5cd9-b78f-4315-a97f-fd7ec221e9ec" />
 
 ## Result
-Thus the output is verified.
+Thus the output is verified
