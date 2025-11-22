@@ -15,7 +15,8 @@ print(a)
 print(b)
 ```
 ## Output
-<img width="860" height="168" alt="image" src="https://github.com/user-attachments/assets/90e26ee1-6b1c-477b-bc8b-fe15c1ab0eee" />
+<img width="847" height="212" alt="image" src="https://github.com/user-attachments/assets/67904afd-124d-40fb-996f-dc58de6c5c9f" />
+
 
 ## Result
 Thus the output is verified
